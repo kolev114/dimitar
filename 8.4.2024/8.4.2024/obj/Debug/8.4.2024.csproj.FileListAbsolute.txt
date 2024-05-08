@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\8.4.2024\8.4.2024\bin\Debug\8.4.2024.exe.config
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\8.4.2024\8.4.2024\bin\Debug\8.4.2024.exe
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\8.4.2024\8.4.2024\bin\Debug\8.4.2024.pdb
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\8.4.2024\8.4.2024\obj\Debug\8.4.2024.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\8.4.2024\8.4.2024\obj\Debug\8.4.2024.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\8.4.2024\8.4.2024\obj\Debug\8.4.2024.exe
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\8.4.2024\8.4.2024\obj\Debug\8.4.2024.pdb

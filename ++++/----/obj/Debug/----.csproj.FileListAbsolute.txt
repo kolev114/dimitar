@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\++++\----\bin\Debug\----.exe.config
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\++++\----\bin\Debug\----.exe
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\++++\----\bin\Debug\----.pdb
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\++++\----\obj\Debug\----.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\++++\----\obj\Debug\----.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\++++\----\obj\Debug\----.exe
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\++++\----\obj\Debug\----.pdb
