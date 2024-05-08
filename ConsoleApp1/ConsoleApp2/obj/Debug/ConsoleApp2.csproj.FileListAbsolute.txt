@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
