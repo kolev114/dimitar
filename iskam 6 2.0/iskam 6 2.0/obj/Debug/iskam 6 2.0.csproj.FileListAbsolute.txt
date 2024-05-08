@@ -1,0 +1,10 @@
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\iskam 6 2.0\iskam 6 2.0\bin\Debug\iskam 6 2.0.exe.config
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\iskam 6 2.0\iskam 6 2.0\bin\Debug\iskam 6 2.0.exe
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\iskam 6 2.0\iskam 6 2.0\bin\Debug\iskam 6 2.0.pdb
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\iskam 6 2.0\iskam 6 2.0\obj\Debug\iskam 6 2.0.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\iskam 6 2.0\iskam 6 2.0\obj\Debug\iskam_6_2._0.Form1.resources
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\iskam 6 2.0\iskam 6 2.0\obj\Debug\iskam_6_2._0.Properties.Resources.resources
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\iskam 6 2.0\iskam 6 2.0\obj\Debug\iskam 6 2.0.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\iskam 6 2.0\iskam 6 2.0\obj\Debug\iskam 6 2.0.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\iskam 6 2.0\iskam 6 2.0\obj\Debug\iskam 6 2.0.exe
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\iskam 6 2.0\iskam 6 2.0\obj\Debug\iskam 6 2.0.pdb
