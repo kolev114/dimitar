@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\BankovaKarta\BankovaKarta\bin\Debug\BankovaKarta.exe.config
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\BankovaKarta\BankovaKarta\bin\Debug\BankovaKarta.exe
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\BankovaKarta\BankovaKarta\bin\Debug\BankovaKarta.pdb
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\BankovaKarta\BankovaKarta\obj\Debug\BankovaKarta.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\BankovaKarta\BankovaKarta\obj\Debug\BankovaKarta.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\BankovaKarta\BankovaKarta\obj\Debug\BankovaKarta.exe
+C:\Users\STUDENTS-1409-7\Desktop\dimitar\BankovaKarta\BankovaKarta\obj\Debug\BankovaKarta.pdb
